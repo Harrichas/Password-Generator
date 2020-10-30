@@ -2,7 +2,7 @@
 
 This is a password generator using javascript to prompt the user a series of question to be used to make a randomized password.
 ## Image of the generator
-![Screenshot of the generator](./images/screenshot.png)
+![Screenshot of the generator](./images/Screenshot.png)
 ## Github pages 
 This is where the main website will be launched 
 ## Langauges Used
